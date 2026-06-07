@@ -1,0 +1,7 @@
+[package]
+name = "neural-crest"
+version = "0.1.0"
+description = "Cell migration patterns for agent deployment with chemotaxis, differentiation, and placode formation"
+repository = "https://github.com/SuperInstance/neural-crest"
+license = "MIT"
+edition = "2021"
